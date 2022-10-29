@@ -2,3 +2,6 @@
 
 ## Part1
 - Modify `vectorOP.cpp`
+
+## Part2
+- [https://hackmd.io/pUGW0qUPTwqXz8nOL5kSTA](https://hackmd.io/pUGW0qUPTwqXz8nOL5kSTA)
