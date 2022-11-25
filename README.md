@@ -1,2 +1,2 @@
-# Paralell-Programming-NYCU
-2022 NYCU Paralell-Programming
+# Parallel-Programming-NCTU
+2022 Autumn NCTU Paralell-Programming
