@@ -1,7 +1,9 @@
 # Programming Assignment I: SIMD Programming
 
-## Part1
+## Part 1: Vectorizing Code Using Fake SIMD Intrinsics
 - Modify `arraySumVector`, `clampedExpVector` in `vectorOP.cpp`
 
-## Part2
-- [https://hackmd.io/pUGW0qUPTwqXz8nOL5kSTA](https://hackmd.io/pUGW0qUPTwqXz8nOL5kSTA)
+## Part 2: Vectorizing Code with Automatic Vectorization Optimizations
+
+## Report:
+- [https://hackmd.io/@davidzwei/2022_PP_HW1](https://hackmd.io/@davidzwei/2022_PP_HW1)
